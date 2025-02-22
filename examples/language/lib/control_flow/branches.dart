@@ -70,7 +70,7 @@ dynamic miscDeclAnalyzedButNotTested() {
   }
 
   {
-    // #docregion switch-break
+  // #docregion switch-break
   void main() {
   String grade = 'B';
   switch (grade) {
